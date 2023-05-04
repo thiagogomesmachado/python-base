@@ -2,7 +2,7 @@
 
 print("Hello, World")
 
-i=3
+i=2
 
 if i==2:
     print("true")  
